@@ -5,9 +5,6 @@
 *In English: net interest income analysis of Sberbank Group based on Bank of Russia regulatory filings (forms 0409802/0409803), 2020–2026: loan yield and funding cost vs. the key rate, deposit/loan betas, rate-volume decomposition of NII and funding mix.*
 
 ![Дашборд: ставки, спред и NIM, rate-volume](docs/dashboard.png)
-
-Дашборд целиком (одна HTML-страница, работает без интернета): [`docs/index.html`](docs/index.html). Для просмотра в браузере включите GitHub Pages (Settings → Pages → Deploy from a branch → папка `/docs`).
-
 ## Основные выводы
 
 | | 2 кв. 2025 | 2 кв. 2026 |
