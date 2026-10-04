@@ -1,0 +1,8 @@
+pandas>=2.0
+pyarrow
+requests
+rarfile
+dbfread
+lxml
+openpyxl
+jupyter
